@@ -1,6 +1,7 @@
 # ClarifyAI
 
 ClarifyAI is an AI-powered requirement clarifier application that transforms vague product ideas into structured, buildable engineering specifications.
+Demo video: https://drive.google.com/file/d/1NEUiCiTgkEVzrThuQtPNqThWVA5etpgT/view?usp=drive_link
 
 ## What It Does
 When building software, vague requirements are the enemy of fast shipping. ClarifyAI solves this by having an AI act as a Senior Product Manager.
